@@ -13,6 +13,18 @@
 | **Roblox games** | [Steal a Villain](https://www.roblox.com/games/92426011541046/Steal-a-Villain), [Indonesia Disaster](https://www.roblox.com/games/70768050735882/Indonesia-Disaster) and more | 1.9M+ combined visits |
 | [**Portfolio**](https://isaiahboyd.xyz) | Interactive Roblox-style portfolio site | [Source](https://github.com/izzyfrm/isaiah-boyd) |
 
+## Python AI engineering labs
+
+Small, runnable projects covering retrieval, evaluation, caching, monitoring, and routing. Every lab runs offline without API keys and includes tests, example output, and implementation tradeoffs.
+
+| Project | Engineering focus |
+|---|---|
+| [Evidence Search](https://github.com/izzyfrm/evidence-search) | BM25 passage retrieval with source citations and overlapping chunks |
+| [Eval Forge](https://github.com/izzyfrm/eval-forge) | Recorded LLM output checks, JSON contracts, and regression gates |
+| [Prompt Vault](https://github.com/izzyfrm/prompt-vault) | SQLite response caching, TTL, namespaces, and optional lexical matching |
+| [Drift Radar](https://github.com/izzyfrm/drift-radar) | Numerical distribution monitoring with inspectable PSI reports |
+| [Route Lab](https://github.com/izzyfrm/route-lab) | Budget constrained model-routing simulation with UCB exploration |
+
 ## Stack
 
 **Languages:** Luau · Python · JavaScript
