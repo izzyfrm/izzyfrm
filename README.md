@@ -1,43 +1,32 @@
 # Isaiah Boyd
 
-**AI engineer and Roblox developer.** I build games, developer tools and AI products, and ship them to real players.
+AI Engineer & Roblox Developer.
 
-[Portfolio](https://isaiahboyd.xyz) · [X](https://x.com/IsaiahSrc) · [TikTok](https://tiktok.com/@izzyytech) · Discord: `isaiahhx`
+I build AI tools, software, and Roblox experiences.
 
-## What I build
+## Projects
 
-| Project | What it is | Proof |
-|---|---|---|
-| [**roblox-ai**](https://github.com/izzyfrm/roblox-ai) | A categorized library of 12K+ visual references for Roblox UI, VFX and game art, built for AI coding assistants (Claude Code, Codex) | 168 stars, 44 forks |
-| [**Dianoetic**](https://dianoetic.tech) | Personal AI assistant | Live |
-| **Roblox games** | [Steal a Villain](https://www.roblox.com/games/92426011541046/Steal-a-Villain), [Indonesia Disaster](https://www.roblox.com/games/70768050735882/Indonesia-Disaster) and more | 1.9M+ combined visits |
-| [**Portfolio**](https://isaiahboyd.xyz) | Interactive Roblox-style portfolio site | [Source](https://github.com/izzyfrm/isaiah-boyd) |
+**[roblox-ai](https://github.com/izzyfrm/roblox-ai)**  
+Open-source visual reference library for AI-assisted Roblox development.
 
-## Python AI engineering labs
+**[Dianoetic](https://dianoetic.tech)**  
+Personal AI assistant.
 
-Small, runnable projects covering retrieval, evaluation, caching, monitoring, and routing. Every lab runs offline without API keys and includes tests, example output, and implementation tradeoffs.
+**Roblox Development**  
+1.9M+ combined visits across published experiences.
 
-| Project | Engineering focus |
-|---|---|
-| [Evidence Search](https://github.com/izzyfrm/evidence-search) | BM25 passage retrieval with source citations and overlapping chunks |
-| [Eval Forge](https://github.com/izzyfrm/eval-forge) | Recorded LLM output checks, JSON contracts, and regression gates |
-| [Prompt Vault](https://github.com/izzyfrm/prompt-vault) | SQLite response caching, TTL, namespaces, and optional lexical matching |
-| [Drift Radar](https://github.com/izzyfrm/drift-radar) | Numerical distribution monitoring with inspectable PSI reports |
-| [Route Lab](https://github.com/izzyfrm/route-lab) | Budget constrained model-routing simulation with UCB exploration |
+## Open Source
 
-## Stack
+- [Evidence Search](https://github.com/izzyfrm/evidence-search) — Information retrieval
+- [Eval Forge](https://github.com/izzyfrm/eval-forge) — LLM evaluation
+- [Prompt Vault](https://github.com/izzyfrm/prompt-vault) — Response caching
+- [Drift Radar](https://github.com/izzyfrm/drift-radar) — Distribution monitoring
+- [Route Lab](https://github.com/izzyfrm/route-lab) — Model routing
 
-**Languages:** Luau · Python · JavaScript
-**Roblox:** Studio, DataStores, server-authoritative systems, responsive UI, VFX
-**AI:** Claude Code and Codex workflows, prompt and reference pipelines
-**Web:** HTML/CSS/JS
+## Technologies
 
-## How I work
+Python · Luau · JavaScript · Roblox Studio · Git
 
-- Server-authoritative gameplay: rewards, purchases and progression are validated on the server.
-- Mobile, desktop and gamepad support from the start.
-- Performance first: no wasted loops, clean memory handling, optimized assets.
+## Links
 
-## Get in touch
-
-Open to Roblox development work and AI tooling projects. Reach me on Discord (`isaiahhx`) or X ([@IsaiahSrc](https://x.com/IsaiahSrc)).
+[Website](https://isaiahboyd.xyz) · [X](https://x.com/IsaiahSrc) · [TikTok](https://tiktok.com/@izzyytech)
